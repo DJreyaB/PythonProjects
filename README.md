@@ -31,7 +31,7 @@
 
 ## About The Project
 
-Several quick python projects built after skimming [Kylie Ving's Freecodecamp tutorial](https://www.youtube.com/watch?v=8ext9G7xspg&list=PLBHasmRto61TO-Z_XNFAJky_Iurp1a1_P&index=5&t=1467s). For those who are just beginning python, I greatly suggest watching the full video. For those who are experienced, using the project ideas is suggested, as it covers python fundamentals as a beginner/novice pace.
+Several quick python projects built after skimming [Kylie Ying's Freecodecamp tutorial](https://youtu.be/8ext9G7xspg). For those who are just beginning python, I greatly suggest watching the full video. For those who are experienced, using the project ideas is suggested, as it covers python fundamentals as a beginner/novice pace.
 
 
 ### Built With
