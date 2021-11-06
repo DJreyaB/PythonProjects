@@ -38,6 +38,9 @@ Several quick python projects built after skimming [Kylie Ving's Freecodecamp tu
 
 * [Python](https://www.python.org/downloads/)
 
+
+## Getting Started
+
 ### Prerequisites
 Each project was built using python and builtin libraries. Python version of 3.9.5 or later is recommended.
 
